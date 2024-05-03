@@ -1,0 +1,11 @@
+References
+
+[1]https://www.mechinopedia.com/2022/03/throttle-governing-of-steam-turbines.html
+[2]  Steam turbine modeling tools: https://de.mathworks.com/help/physmod/simscape/ug/rankine-cycle-steam-turbine.html (Simulink is a part of the MATLAB suite)
+
+[3] A. McEvoy, T. Markvart, L. Castañer, T. Markvart, and L. Castaner, Practical handbook of photovoltaics: fundamentals and applications. Elsevier, 2003.
+[4] https://youtu.be/XACvF3TtywM?si=htZGCdQwP-olt4yR
+[5]  Dr Sridhar SS - SRM PPT
+[6] K. M. Passino, S. Yurkovich, and M. Reinfrank, Fuzzy control, vol. 20. Citeseer, 1998.
+[7]Samir Roy, Udit Chakraborty, “Introduction to Soft Computing: Neuro-Fuzzy and Genetic Algorithms”, Pearson Education, 2013.
+[8]Laurene Fausett, "Fundamentals of Neural Networks, Architectures, Algorithms and Applications”, Pearson Education, 2008.
